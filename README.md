@@ -66,7 +66,7 @@ Describe any challenges encountered while building the app.
     
     
     
-# Project 3 - *NBuild Instagram from the Ground Up - Part 1*
+# Project 3 - *Build Instagram from the Ground Up - Part 1*
 
 **Instagram Clone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -95,7 +95,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://https://media.giphy.com/media/JPnkHWcqn5pmWABWKF/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/JPnkHWcqn5pmWABWKF/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
